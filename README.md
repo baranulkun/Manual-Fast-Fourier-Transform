@@ -40,12 +40,9 @@ This project manually implements the 2D Fourier Transform in Python to analyze a
 - **Fourier Magnitude Spectrum**
 - **Reconstructed Image (Inverse FFT)**
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
-- Your Name
-- Contact: your.email@example.com
+- Baran Ülkün
+- Contact: baranulkun8@gmail.com
 
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests.
